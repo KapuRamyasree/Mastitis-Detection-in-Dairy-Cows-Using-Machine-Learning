@@ -6,7 +6,7 @@ Here's a professional **README.md** template for your Mastitis Detection project
 A machine learning system to detect clinical/subclinical mastitis in dairy cows with **96% top accuracy**, reducing milk yield losses by 35% through early intervention.
 
 📂 ##Dataset
-You can download from here :- (https://github.com/KapuRamyasree/Mastitis-Detection-in-Dairy-Cows-Using-Machine-Learning/blob/df9a713a7bbdae21e68671c3c8bf205aaebe9365/Dataset/updated_mastitis_dataset.csv).
+You can download from here :- (https://github.com/KapuRamyasree/Mastitis-Detection-in-Dairy-Cows-Using-Machine-Learning/blob/a4b23fd52ab1297d00d1814fb2d548a2eb29f13b/Dataset/updated_mastitis_dataset.csv).
 # Sample data structure
 {
     "SCC (cells/mL)": [125000, 253000, ...],  # Somatic Cell Count
