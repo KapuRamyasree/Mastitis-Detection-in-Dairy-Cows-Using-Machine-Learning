@@ -57,7 +57,7 @@ print(classification_report(y_test, y_pred))
 - Clinical Mastitis: **F1=0.89**
 
 ## Confusion Matrix:-
-![Confusion Matrix](https://github.com/KapuRamyasree/Mastitis-Detection-in-Dairy-Cows-Using-Machine-Learning/blob/df9a713a7bbdae21e68671c3c8bf205aaebe9365/Images/Correlation%20Matrix.png).
+![Confusion Matrix](https://github.com/KapuRamyasree/Mastitis-Detection-in-Dairy-Cows-Using-Machine-Learning/blob/1a2dcccf0ca7d06fd78b67febadfa7fc14e88e6d/Images/Correlation%20Matrix.png).
 ## 🌍 Impact Metrics
 ```text
 - 40% reduction in antibiotic usage
